@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Auto Semi-Colon",
+		"AutoDocstring",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Console Wrap",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"Fold Python",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Javascript Beautify",
+		"Package Control",
+		"Python Completions",
+		"Python Fix Imports",
+		"Python Imports Sorter",
+		"PyYapf Python Formatter",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublime-format",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TodoReview",
+		"VBDotNet"
+	],
+	"repositories":
+	[
+		"https://github.com/Rypac/sublime-format.git"
+	]
+}
